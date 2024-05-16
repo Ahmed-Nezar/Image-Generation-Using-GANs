@@ -97,3 +97,9 @@ GANs Architectures for the Wasserstein GANs
 
 ![image](https://github.com/KirollosEMH/Image-Generation-Using-GANs/assets/126684081/601949b3-5fc2-4429-bd7b-4efd167788df)
 
+---------------------------------------------------------------------------------------------------------
+To run deployment write the following command:
+```
+streamlit run Deployment.py
+```
+
